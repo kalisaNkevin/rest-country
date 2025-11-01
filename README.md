@@ -32,7 +32,7 @@ This project is built using Angular, SCSS, Typescript and hosted on Netlify.
 Clone the repository and run the command:
 
 ```sh
-git clone https://github.com/victorbruce/rest-countries
+git clone https://github.com/kalisankevin/rest-countries
 cd rest-countries
 ```
 
